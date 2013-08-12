@@ -1295,10 +1295,10 @@
 				<string key="NSName">_NSMainMenu</string>
 			</object>
 			<object class="NSWindowTemplate" id="972006081">
-				<int key="NSWindowStyleMask">7</int>
+				<int key="NSWindowStyleMask">15</int>
 				<int key="NSWindowBacking">2</int>
-				<string key="NSWindowRect">{{466, 268}, {424, 267}}</string>
-				<int key="NSWTFlags">880279552</int>
+				<string key="NSWindowRect">{{425, 278}, {424, 267}}</string>
+				<int key="NSWTFlags">1954021376</int>
 				<string key="NSWindowTitle">OCWithCpp</string>
 				<string key="NSWindowClass">NSWindow</string>
 				<nil key="NSViewClass"/>
